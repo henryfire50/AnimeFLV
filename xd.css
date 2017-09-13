@@ -1,0 +1,73 @@
+﻿p {
+    color: aqua;
+    font-size: 50px;
+    font-family:Algerian;
+    text-align: center;
+    margin-top: 50px;
+    padding: 20px;
+}
+
+li {
+    margin-right: 100px;
+    display: inline-flex;
+    font-size: 40px;
+    padding: 15px;
+    font-family:Algerian;
+}
+
+img {
+    display: inline;
+    height: 30px;
+    width: 30px;
+
+}
+h1 {
+    text-align: center;
+    color:blue;
+    font-size: 60px;
+}
+
+h2 {
+    text-align: center;
+    color:lightblue;
+    font-size: 40px;
+}
+header {
+    height: 200px;
+    width: 1800px;
+    background-color:black;
+    display: inline-flex;
+}
+body {
+    background-image: url(imagenes/z.jpg)
+}
+video{ 
+    height:500px;
+}
+.yes{
+    margin: 0px 600px;
+    height:700px;
+    width:700px;
+}
+h3 {
+    text-align: center;
+    color: lightblue;
+    font-size: 40px;
+}
+.sod {
+    font-size: 50px;
+    color:gold;
+    text-align: center;
+    font-family: Algerian;
+}
+.ye {
+    margin: 20px 50px ;
+    height: 500px;
+    width: 500px;
+}
+.sh{
+    text-align:center;
+    font-family:Algerian;
+    font-size:40px;
+    color:red;
+}

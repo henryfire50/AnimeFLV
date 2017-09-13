@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6C7C8E6E-7995-4F52-AFE5-94CCCE3CCB6A}"
+	ProjectSection(SolutionItems) = preProject
+		e.html = e.html
+		h.html = h.html
+		lol.css = lol.css
+		luna.css = luna.css
+		n.html = n.html
+		r.html = r.html
+		sol.css = sol.css
+		xd.css = xd.css
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {323E3A07-C91C-4DC1-92F8-1E9A0C91714B}
+	EndGlobalSection
+EndGlobal

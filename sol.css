@@ -1,0 +1,56 @@
+﻿p {
+    color: aqua;
+    font-size: 50px;
+    font-family: Algerian;
+    text-align: center;
+    margin-top: 50px;
+    padding: 20px;
+}
+
+li {
+    margin-right: 100px;
+    display: inline-flex;
+    font-size: 40px;
+    padding: 15px;
+    font-family: Algerian;
+}
+
+img {
+    display: inline;
+    height: 30px;
+    width: 30px;
+}
+body {
+    background-image: url(imagenes/z.jpg)
+}
+header {
+    height: 200px;
+    width: 1800px;
+    background-color: black;
+    display: inline-flex;
+
+}
+h1 {
+    text-align: center;
+    color: blue;
+    font-size: 60px;
+}
+h2 {
+    text-align: center;
+    color: lightblue;
+    font-size: 40px;
+}
+video {
+    height: 500px;
+}
+
+.yes {
+    margin: 20px 100px;
+    height: 700px;
+    width: 700px;
+}
+.sod {
+    font-size: 50px;
+    color: gold;
+    text-align: center;
+    font-family: Algerian;}
